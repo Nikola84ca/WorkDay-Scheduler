@@ -15,10 +15,10 @@ textarea {
 
 header {
   text-align: center;
-  background-color: transparent;
-  color: black;
+  background-color: rgb(54, 54, 97);
+  color: #ffffff;
   border-radius: 0;
-  border-bottom: 10px solid black;
+  border-bottom: 10px solid #726f6f;
   padding: 60px;
 }
 
