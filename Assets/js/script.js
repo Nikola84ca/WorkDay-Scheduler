@@ -50,7 +50,7 @@ function updateHourStyles() {
     });
 }
 
-// Function to save event to local storage
+// The following function saves the input from the user in the local storage
 function saveEvent(hour, event) {
   userInputs[hour - 9] = event; // Update the global array
   console.log("Data inserted into userInputs at index", hour - 9, ":", event);
@@ -63,7 +63,8 @@ function saveEvent(hour, event) {
   localStorage.setItem("savedEvents", JSON.stringify(savedEvents));
 }
 
-// Event listener for save button click
+// This is the event listener for the save button click
+
 $(".container").on("click", ".saveBtn", function () {
   var hour = $(this).siblings(".description").attr("data-hour");
   var event = $(this).siblings(".description").val();
@@ -86,13 +87,11 @@ function loadEvents() {
   });
 }
 
-
-
-// Call the functions in the desired order
 displayCurrentDay();
 createTimeBlocks();
 updateHourStyles();
-loadEvents(); // Load events after creating time blocks and updating styles
+loadEvents(); 
+
 // Periodically update the styles (every minute in this example)
 setInterval(function() {
     updateHourStyles();

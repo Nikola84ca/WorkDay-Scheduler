@@ -150,7 +150,7 @@ loadEvents();
 // Periodically update the styles (every minute in this example)
 setInterval(function() {
     updateHourStyles();
-}, 60000); // 60000 milliseconds = 1 minute
+}, 60000);
 
 ```  
 
