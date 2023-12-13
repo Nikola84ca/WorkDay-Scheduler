@@ -2,7 +2,7 @@
 
 Project and development of web page for a work day scheduler.
 
-![Gif animation of how to use the Password Generator website](/assets/Images/Work-Day-Scheduler.gif)
+![Gif animation of how to use the Password Generator website](/Assets/Images/Work-Day-Scheduler.gif)
 
 ## About Me 
 Born and raised in Italy, I moved to the UK in 2015. I have always been interested in new technologies and IT, as I studied IT in my A levels back in Italy. After 5 years working in content management for a website, I decided to make the step of learning Front-End Development thanks to the edX course, and on my gitHub profile I showcase not only my progress in Front-End Development as a student but also a journey that hopefully will lead to new exciting projects in this field.
@@ -35,7 +35,7 @@ code .
 
 alternatively download the zip file in GitHub after pressing the Code button, unzip it and copy it in your project folder. Navigate to the folder using the cd command on gitbash and lounch your editor as shown above with code . To open the Work Day Scheduler page simply open the index.html file on your browser and follow the procedure as shown in the following animation:
 
-![Gif animation of how to use the Password Generator website](/assets/Images/password-generator-test-animation.gif)
+![Gif animation of how to use the Password Generator website](/Assets/Images/password-generator-test-animation.gif)
 
 ## Website Description 
 
