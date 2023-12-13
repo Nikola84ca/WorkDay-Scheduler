@@ -2,6 +2,8 @@
 
 Project and development of web page for a work day scheduler.
 
+![Gif animation of how to use the Password Generator website](/assets/Images/Work-Day-Scheduler.gif)
+
 ## About Me 
 Born and raised in Italy, I moved to the UK in 2015. I have always been interested in new technologies and IT, as I studied IT in my A levels back in Italy. After 5 years working in content management for a website, I decided to make the step of learning Front-End Development thanks to the edX course, and on my gitHub profile I showcase not only my progress in Front-End Development as a student but also a journey that hopefully will lead to new exciting projects in this field.
 
@@ -9,7 +11,7 @@ Born and raised in Italy, I moved to the UK in 2015. I have always been interest
 
 You can visit the JavaScript Quiz Game website by clicking [HERE](https://nikola84ca.github.io/WorkDay-Scheduler/). Alternatively to the url above, you can clone the repository on your device as shown in the Installation section below and access the index.html file by opening it in your browser. Here is a gif animation of the step-by-step procedure to generate your password:
 
-![Gif animation of how to play the game](/assets/images/JavaScript-Coding-Quiz.gif)
+![Gif animation of how to use the Password Generator website](/assets/Images/Work-Day-Scheduler.gif)
 
 ## Installation
 First, make sure that Git and Git Bash are installed on your system. To download this project on your machine click [HERE](https://github.com/Nikola84ca/WorkDay-Scheduler) to go to the repository on GitHub. Click on the green CODE button, and copy the link of the repository. In your machine, open gitBash and create a new folder where you will clone the project using the command below:
@@ -151,12 +153,6 @@ setInterval(function() {
 }, 60000); // 60000 milliseconds = 1 minute
 
 ```  
-
-![Gif animation of wrong answer -10 seconds](/assets/images/JavaScript-Coding-Quiz-wrong-answer.gif)
-
-
-
-
 
 ## Credits
 
